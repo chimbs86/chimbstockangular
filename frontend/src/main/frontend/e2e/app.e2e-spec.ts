@@ -1,4 +1,4 @@
-import { Ng2bootPage } from './app.po';
+import {Ng2bootPage} from './app.po';
 
 describe('ng2boot App', () => {
   let page: Ng2bootPage;
