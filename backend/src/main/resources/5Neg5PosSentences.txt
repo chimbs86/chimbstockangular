@@ -1,0 +1,160 @@
+﻿premise : Neg(937) and Pos(464)
+----From Negative Reviews---
+1. The premise is absolutely laughable. [O, N]
+2. "Midnight Clear" has a great premise. [O, P]
+3. The premise is something like a Soprano's episode only not realistic. [O, N]
+4. A simple premise laking in scenery. [O, N]
+5. The premise of Bottom crossed with Fawlty Towers sounds great! [O, P]
+---From Positive Reviews---
+6. It's certainly a fun, original premise. [O, P]
+7. The premise alone is appealing. [O, P]
+8. Much scarier in premise than the first, and very entertaining. [O, P]
+9. I enjoyed the premise of the dangers of 'altering' the future by changing the past. [O, P]
+10. The real-world accident at TMI proves the film's basic premise. [O, P]
+==============================================================
+merely : Neg(380) and Pos(304)
+----From Negative Reviews---
+11. This isn't a dreadful film, merely insipid. [O, N]
+12. As-is, it merely seems amateurish. [O, N]
+13. Not merely a drama, the film acts as a warning against complacency. [N, P]
+14. He even corrects people who address him merely as "professor." [O, N]
+15. Like Johansson, he is used merely for his good looks. [O, N]
+---From Positive Reviews---
+16. Her presence here is merely cosmetic. [O, N]
+17. As a Bond theme, it's merely okay. [O, N]
+18. Plot is merely a tool for the conveyance of the protagonist's epiphany. [O, O]
+19. The lesbian scenes I felt was merely to put that point across. [O, O]
+20. Before this clip, music videos were merely to display an artist. [O, P]
+==============================================================
+avert : Neg(10) and Pos(6)
+----From Negative Reviews---
+21. Do not read further...here it comes, avert your eyes! [O, N]
+22. i have to avert my eyes from the set, it's so embarrassing. [O, N]
+23. Alien Rae Dawn Chong arrives to guide a flute playing underwear model in a mystical quest to avert Earth's impending environmental collapse. [O, O]
+24. Sheen's response to avert a political crisis is so ladened with false machismo, he looks as though he attended the David Hasselhoff school of acting. [O, N]
+25. Trying to keep the world from plunging in ecological havoc, a crack team of scientists led by Dr. Jake Rollins(Luke Perry)take a massive earth drilling vehicle called "The Mole" to chew its way to the Earth's fiery core to avert impending doom. [O, P]
+---From Positive Reviews---
+26. Enter Police Captain Tom Warren (Paul Douglas), who is enlisted to track down the murderer as soon as possible and avert a possible national disaster. [O, P]
+27. She turns instead to Dr.Tadokoro for advice, and he has plans to blow astronomically HUGE holes under Japan to avert the process of sinking. [O, O]
+28. As child, she worked, had no privacy, wore colourless clothing, shared a bed, and remained silent to avert the mockery of her mother and siblings who ridiculed her for mimicking them out of boredom. [O, N]
+29. The spectrum of characters gives a brilliant image of a society facing a war, an insight into nation's collective person: everyone is aware that war is just about to begin but they try to live their own lives the best they can, hoping that ignorance might avert the tragedy. [O, P]
+30. Throughout we have a sense of time and place  be it from the steam trains, the university paper chase, or the red flannelette petticoats worn by the girls (and used to avert disaster!) [O, P]
+==============================================================
+obviate : Neg(1) and Pos(0) - get more from web
+----From Negative Reviews---
+31. The main problems of 'Saw' are related to the tremendous script mistakes that only a uncritical spectator will just obviate. [O, N]
+---From Positive Reviews---
+None.
+32. Webster: The new medical treatment obviates the need for surgery. [O, P]
+33.  		 The new treatment obviates many of the risks associated with surgery. [O, P]
+34. Oxford: He presence of roller blinds obviated the need for curtains. [O, O]
+35. 		A parachute can be used to obviate disaster. [O, P]
+36. Cambridge: A peaceful solution would obviate the need to send a UN military force.	[O, P]
+37. Google: This immediately obviates the cliché-ridden settings of the Western world and lends the film a fresh, aesthetically beautiful aura. [O, P]		
+38.		And this all sort of obviates the plot tension. [O, N]
+39.		The film simply does it, carrying you along with visual cues that obviate the need for any explicit explanation. [O, P]
+40.		He is doing the kinds of fight scenes which obviate the need for a body double. [O, P]
+==============================================================
+sure : Neg(2756) and Pos(2470) - get more samples
+----From Negative Reviews---
+41. They sure must be ashamed. [O, N]
+42. I'm sure everyone would love that. [O, P]
+43. You sure couldn't tell that from the poor production values. [O, N]
+44. Sure, you can see an undeveloped Kubrick in there. [O, N]
+45. For such a dumb movie this thing sure is plotty. [O, P]
+---From Positive Reviews---
+46. Together, they create a nice package this is sure to please. [O, P]
+47. Sure, they're all rehash, but so was Monkey Island 2. [O, P]
+48. Sure, some of the content can be considered controversial. [O, N]
+49. This irritates many, I am sure. [O, N]
+50. I'm sure you'll enjoy it! [O, P]
+==============================================================
+surely : Neg(425) and Pos(352)
+---From Negative Reviews---
+51. This is one film you'll surely want to miss. [O, N]
+52. Surely, audience "maangey more" and here film fails to deliver. [O, N]
+53. Mawkish, tedious and occasionally nauseating -- Surely there's something better on. [O, N]
+54. Surely, plenty of professors are nutty. [O, N]
+55. Surely recommended with guaranteed fun and scares. [O, P]
+---From Positive Reviews---
+56. This is surely his best. [O, P]
+57. City of God and Pixote surely had a much higher budget. [O, P]
+58. Surely, one of the most horrifying scenes in Fulci's repertoire. [O, P]
+59. Streep will surely receive an Oscar nomination for her role. [O, P]
+60. Surely this isn't really a hit. [O, N]
+==============================================================
+disprove : Neg(10) and Pos(2)
+---From Negative Reviews---
+61. When I watch Ghost Hunters they find evidence and try to disprove it and if they can't then it is evidence. [O, O]
+62. To the person complaining about Disney only targetting kids-The raunchy parts of this film seems to disprove that statement. [O, N]
+63. There is no female presence at all on base or in battle, although female casualty rates in Iraq would certainly disprove this. [O, N]
+64. In a last-ditch attempt to disprove the Christian faith, the narrator tries to make a fool out of someone who gave him a detention as a child. [O, N]
+65. Zero Day is a bad movie not because I really believe a correlation exists, but because the film maker doesn't know what hes trying to say, and the movie does more to disprove his point then support it. [O, N]
+---From Positive Reviews---
+66. As Colbert, Ryan, and her attorney set out to disprove the strangers claim of a prior marriage, they are met at every turn by more evidence that seems to reinforce the claim that she is indeed already wed. [O, O]
+67. The film then went on to disprove that! [O, P]
+68. Webster: Magellan's circumnavigation of the globe disproved any lingering notions that the earth is flat. [O, P]
+69. Oxford: He has given the Department of Transport two months to disprove the allegation. [O, O]
+70. Cambridge: Given the thoroughness of the author’s research, the burden rests on critics to disprove the facts he presents. [O, P]
+==============================================================
+confute : Neg(0) and Pos(0) - add from Web
+---From Negative Reviews---
+None.
+---From Positive Reviews---
+None.
+71. Google: The speaker confuted his opponents by facts and figures. [O, P]
+72.		Marwell effectively confuted these theories by means of elegantly designed small-group experiments and computer simulations. [O, P]
+73.		Rush Home Road offers an interesting storyline rich with satisfying plot twists that skilfully confute the reader’s expectations. [O, P]
+74.		Geoffrey Wilson, who wants to confute the Darwinist heretics by proving that the island is the location of the Garden of Eden. [O, O]
+75.		This study offers an analysis of the role of female protagonists in two revolutionary Disney films, attempts to confute the numerous misconceptions and various myths that
+		still circulate around Disney films and offers a detailed and balanced interpretation of the film texts. [O, P]
+76.		[His reasoning has been found exceedingly liable to error in other instances, and is exceedingly unsubstantial in this.] Facts all over the world confute him. [O, N]
+77.		It’d be impossible to confute the statement that video looks amazing on the new iPad. [With Full HD video capture and a magnificent 2048 x 1536 Retina display, there’s not a
+		more visually stunning tablet out there] [O, P]
+78.		This time Lutzer is attempting to confute what he feels is an Evangelical. [O, O]
+79.		His reasoning is so forcible, that no one has even attempted to confute it. [O, P]
+80.		This column wishes to confute the conclusion. [The conclusion is: Economic circumstances do not matter.] [O, O]
+###############################################################
+exhort : Neg(2) and Pos(0) - add from Web
+---From Negative Reviews---
+81. From the safety of Hollywood, Chaplin uses this soapbox to exhort Europe to take up arms and defy Hitler and Mussolini. [O, N]
+82. While the timid men of an impotent god exhort "faith" and quiver in their cells doing nothing about Satan actually walking amongst them, the Prince of Darkness is thwarted by a nullifidian with a big gun and a foreign accent. [O, P]
+---From Positive Reviews---
+None.
+83. Webster: He exhorted his people to take back their land. [O, P]
+84.		 	She exhorted her listeners to support the proposition. [O, O]
+85. Cambridge: The governor exhorted the prisoners not to riot. [O, P]
+86. Oxford: I exhorted her to be a good child. [O, O]
+87. Google: In effect, they are further enticing moviegoers to stay home even as they exhort and extort them to come to the movies. [O, N]
+88.		You are exhorted to enter every restaurant but the guy at Destino wasnt overpushy and the waiting staff were great. [O, P]
+89.		He also exhorts readers to buy a countertop deep fryer. [O, O]
+90.		They exhort you to re-heat the pizza once you receive it. [Context: Hey, if I wanted to work that hard, I'd make my own pizza. So that was a turn-off.] [O, N]
+==============================================================
+urge : Neg(103) and Pos(92)
+---From Negative Reviews---
+91. Please, I urge you, do not see this movie. [O, N]
+92. It's trash, and I urge you not to waste a minute of your life on it! [O, N]
+93. I urge you not to support this movie by buying or renting it. [O, N]
+94. If you insist on making movies about gangsters I urge you to do research. [O, N]
+95. Strongly urge you not to go, or rent it when it comes out. [O, N]
+---From Positive Reviews---
+96. If you like horror I urge you to check this little gem out!! [O, P]
+97. I only urge you to keep watching after you saw the first episode. [O, P]
+98. If you haven't seen this version I would strongly urge that you do. [O, P]
+99. I urge everyone to watch this series. [O, P]
+100. I urge people to look it up and watch it. [O, P]
+==============================================================
+tantalize : Neg(1) and Pos(1)
+---From Negative Reviews---
+101. It takes more than strict adherence to a winning formula (namely, a serving of exotica, plus heart wrenching yet simple melodrama, plus a popular agenda, preferably politically correct) to tantalize my interest buds. [P, N]
+---From Positive Reviews---
+102. The camera captures ghostly images, or mirages, optical illusions that tantalize and mesmerize. [P, P]
+103. Webster: She was tantalized by the possibility of earning a lot of money quickly. [P, O]
+104. 		  The older brother mercilessly tantalized the younger one, repeatedly holding out the ball to him only to snatch it back at the last second. [N, N]
+105. Oxford: Such ambitious questions have long tantalized the world’s best thinkers. [P, P]		
+106. Google: Only Olives From Spain Dares Tantalize Your Palette With All New Seamus Mullen Recipes. [P, P]
+107.		[grow up young men and women and treat your fellow students with honor and dignity and leave them alone.]  how much fun is it that you have to tantalize another person. [N, N]
+108.		They may tantalize you and place you “below themselves on the hierarchical chain because they can. [N, N]
+109.		Passengers often are tantalized with fares as low as $19.90 or $29.90 one-way. [P, P]
+110.		I like to tantalize my sister all the time.	[N, N]		
+==============================================================
