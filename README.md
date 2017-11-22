@@ -1,4 +1,3 @@
-# ng2boot
-A minimal Angular2 and Spring Boot starter project
-
-The steps to create this project are described in detail in this blog post: https://blog.jdriven.com/2016/12/angular2-spring-boot-getting-started
+# Angular2 visualization with basic neural network training/testing - DLF4J 
+Neural network implementation with DLF4J
+This is still in progress. Hopefully I will be able to finish this project in the next few months. 
